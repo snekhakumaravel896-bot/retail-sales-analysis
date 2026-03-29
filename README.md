@@ -1,11 +1,28 @@
-Retail Sales Analysis Project
+Retail Sales Analysis (Power BI)
 
-This project analyzes retail sales data using SQL and Power BI.
+Project Overview
 
-Key Insights:
-- Identified top-performing products
-- Analyzed sales trends
-- Found impact of discounts on profit
--  Dashboard Preview
+This project analyzes retail sales data to identify key trends, top-performing categories, and areas of loss using Power BI.
+
+Key Insights
+
+* Copiers generate the highest profit
+* Tables sub-category incurs the highest loss
+* Technology category contributes the most to overall profit
+* Furniture category shows lower profitability
+
+Dashboard Preview
 
 ![Dashboard](https://github.com/snekhakumaravel896-bot/retail-sales-analysis/blob/main/Sales%20Dashboard.jpeg?raw=true)
+
+Tools Used
+
+* Power BI
+* Data Visualization
+* Data Cleaning
+
+## 📁 Project File
+
+[Download Dashboard PDF](PASTE_YOUR_PDF_LINK_HERE)
+
+
