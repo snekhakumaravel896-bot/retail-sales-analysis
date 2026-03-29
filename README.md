@@ -23,6 +23,6 @@ Tools Used
 
 ## 📁 Project File
 
-[Download Dashboard PDF](PASTE_YOUR_PDF_LINK_HERE)
+[Download Dashboard PDF](https://github.com/snekhakumaravel896-bot/retail-sales-analysis/blob/main/Snekha.%20K%20%20Data%20Analysis%20PowerBi%20Project.pdf)
 
 
